@@ -62,7 +62,7 @@ def make_svg(
     card_fields = (
         fields
         if fields is not None
-        else (*BASE_FIELDS, ("Contact", f"github.com/{username} · uraionlabs.com"))
+        else (*BASE_FIELDS, ("Contact", f"{username}.com · uraionlabs.com"))
     )
     lines = _visual_lines(card_fields)
     first_line_y = pad_y + title_height + 35
