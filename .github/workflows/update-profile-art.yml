@@ -7,11 +7,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "scripts/fetch_contributions.py"
-      - "scripts/render_heatmap_svg.py"
-      - "scripts/requirements.txt"
-      - ".github/workflows/update-profile-art.yml"
 
 permissions:
   contents: write
@@ -43,8 +38,13 @@ jobs:
       - name: Render contribution heatmap
         run: python scripts/render_heatmap_svg.py
 
+      - name: Rebuild info card
+        env:
+          GITHUB_PROFILE_USERNAME: arnavprabhu
+        run: python scripts/make_info_card.py
+
       - name: Commit refreshed assets
         uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contribution-heatmap.svg"
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: "data/contributions.json contribution-heatmap.svg info-card.svg"
