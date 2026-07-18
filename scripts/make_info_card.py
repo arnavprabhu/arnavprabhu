@@ -14,7 +14,7 @@ DEFAULT_USERNAME = os.environ.get("GITHUB_PROFILE_USERNAME", "arnavprabhu")
 BASE_FIELDS: tuple[tuple[str, str], ...] = (
     ("Now", "Finance & Business Analytics student"),
     ("Building", "Uraion Labs · resilient AI systems"),
-    ("Stack", "Python · FastAPI · SQL · Linux · GitHub Actions"),
+    ("Stack", "Python · AI/ML tools · k3s · k8s · Docker · Linux"),
     ("Focus", "ML systems · research · product analytics"),
     ("Highlights", "Research, models, and useful open-source tools"),
 )

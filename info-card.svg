@@ -32,13 +32,13 @@
     <animateTransform attributeName="transform" type="translate" from="8 0" to="0 0" begin="0.48s" dur="0.34s" fill="freeze"/>
     <text x="24" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" fill="#7ee787">Stack</text>
     <text x="116" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">:</text>
-    <text x="130" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9">Python · FastAPI · SQL · Linux · GitHub</text>
+    <text x="130" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9">Python · AI/ML tools · k3s · k8s ·</text>
   </g>
   <g opacity="1">
     <set attributeName="opacity" to="0" begin="0s" end="0.61s"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.61s" dur="0.34s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="8 0" to="0 0" begin="0.61s" dur="0.34s" fill="freeze"/>
-    <text x="130" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9">Actions</text>
+    <text x="130" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9">Docker · Linux</text>
   </g>
   <g opacity="1">
     <set attributeName="opacity" to="0" begin="0s" end="0.74s"/>
