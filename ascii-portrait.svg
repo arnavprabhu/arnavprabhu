@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="948" viewBox="0 0 888 948" role="img" aria-labelledby="portrait-title">
+  <title id="portrait-title">Animated monochrome ASCII art of Arnav Prabhu's AP monogram</title>
+  <rect width="888" height="948" rx="12" fill="#0d1117"/>
+  <defs>
+    <clipPath id="row-0-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.01s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.01s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-1-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.07s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.07s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-2-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.13s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.13s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-3-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.19s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.19s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-4-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.25s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.25s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-5-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.31s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.31s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-6-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.37s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.37s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-7-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.43s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.43s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-8-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.49s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.49s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-9-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.55s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.55s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-10-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.61s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.61s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-11-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.67s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.67s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-12-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.73s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.73s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-13-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.79s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.79s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-14-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.85s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.85s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-15-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.91s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.91s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-16-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="0.97s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="0.97s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-17-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.03s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.03s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-18-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.09s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.09s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-19-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.15s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.15s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-20-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.21s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.21s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-21-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.27s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.27s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-22-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.33s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.33s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-23-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.39s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.39s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-24-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.45s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.45s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-25-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.51s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.51s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-26-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.57s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.57s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-27-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.63s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.63s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-28-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.69s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.69s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-29-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.75s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.75s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-30-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.81s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.81s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-31-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.87s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.87s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-32-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.93s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.93s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-33-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="1.99s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="1.99s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-34-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.05s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.05s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-35-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.11s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.11s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-36-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.17s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.17s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-37-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.23s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.23s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-38-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.29s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.29s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-39-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.35s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.35s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-40-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.41s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.41s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-41-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.47s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.47s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-42-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.53s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.53s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-43-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.59s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.59s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-44-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.65s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.65s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-45-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.71s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.71s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-46-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.77s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.77s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-47-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.83s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.83s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-48-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.89s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.89s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-49-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="2.95s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="2.95s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-50-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="3.01s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="3.01s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-51-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="3.07s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="3.07s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-52-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="-14" width="868.00" height="17.50">
+        <set attributeName="width" to="0" begin="0s" end="3.13s"/>
+        <animate attributeName="width" from="0" to="868.00" begin="3.13s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#b7bec7" xml:space="preserve">
+    <g transform="translate(10 25.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-0-clip)">                                                                                                    </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.01s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.01s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 43.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-1-clip)">                                                                                                    </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.07s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.07s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 60.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-2-clip)">                                                                                                    </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.13s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.13s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 78.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-3-clip)">         `=*cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc*=:         </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.19s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.19s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 95.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-4-clip)">       .*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s-       </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.25s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.25s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 113.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-5-clip)">      `#@@@%%@@@@@%%%%@@@@@@%@%%%%%%%%%%%@@@@%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%@@@@@@@@@@@%%@%@@@=      </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.31s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.31s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 130.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-6-clip)">      c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%`     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.37s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.37s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 148.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-7-clip)">      s@@@@@@@@@@@@@@@@@@@@@@@@%%%###sss@@@@@#sssss#################%@@@@@%@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.43s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.43s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 165.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-8-clip)">      s@@@@@@@@@@@@@@@@@@@@@%@s....    .#@%@@s=:`.     ............ =#%@@@@@@@%@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.49s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.49s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 183.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-9-clip)">      s@@@@@@@@@@@@@@@@@@@@@%@c         #@%@@@@@@%#s*+`             =*:`-=*c#@@@@@%@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.55s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.55s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 200.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-10-clip)">      s@@@@@@@@@@@@@@@@@@@@@@@-         *@%@@%%@@@@@@@c .         . *@%=    .`=c#@@@%@@@@@@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.61s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.61s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 218.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-11-clip)">      s@@@@@@@@@@@@@@@@@@@@@@#.         :@%@@@@@@@@%%@*             *@@@%- .    .:*%@@%@@@@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.67s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.67s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 235.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-12-clip)">      s@@@@@@@@@@@@@@@@@@@@@@+           #@%@@@@@@@@%@*           . *@%%@%- .      .+#@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.73s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.73s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 253.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-13-clip)">      s@@@@@@@@@@@@@@@@@@@@@%.         . =@%@@@@@@@@%@*             *@@@%@@-         .*@@%@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.79s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.79s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 270.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-14-clip)">      s@@@@@@@@@@@@@@@@@@@%@+            .%@%@@@@@@@%@*           . *@@@@@@%:       .  :%@%@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.85s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.85s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 288.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-15-clip)">      s@@@@@@@@@@@@@@@@@@@@#.             *@%@@@@@@@@@* .           *@@@@@%@s         . :%@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.91s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.91s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 305.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-16-clip)">      s@%@@@@@@@@@@@@@@@@%@+              `%@@@@@@@@%@* .           *@@@@@@%@-         . :@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="0.97s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="0.97s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 323.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-17-clip)">      s@@@@@@@@@@@@@@@@@@@%.  .`         . c@%@@@@@@@@*           . *@@@@@@%@c            c@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.03s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.03s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 340.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-18-clip)">      s@@@@@@@@@@@@@@@@@%@+ . :c         . :@@@@@@@@%@c.```````...  *@%@@@@@@#          . -@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.09s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.09s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 358.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-19-clip)">      s@@@@@@@@@@@@@@@@@@%.   *@`          .++++++#@%@c`````````::-`c@%@@@@@@#.           `%@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.15s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.15s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 375.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-20-clip)">      s@%@@@@%@@@@@@@@@@@+   .%@+              `+s@@%@*           ..-c@@@@@@@#.           .%@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.21s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.21s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 393.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-21-clip)">      s@@@@@c%@@@@@@@@@@#.   *@@#. .         . `@@@@%@* .      `-     =@%@@@@s            `%@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.27s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.27s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 410.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-22-clip)">      s@@%@*=@%@@@@@@@@@= . `%@%@-           . +@%@@%@*        `@-  .  c@%@@@+          . =@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.33s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.33s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 428.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-23-clip)">      s@%@s c@@@@@@@@@@#.   *@%%@c .           c@@@@%@*        :@c     :@@%@%`            s@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.39s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.39s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 445.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-24-clip)">      s@@s. s@@@@@@@@%@= . :@@@@@%`           .#@@@@@@* .      *@s     -@@%@*            +@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.45s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.45s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 463.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-25-clip)">      s@#.  c@@@@@@@%@s    s@%@@%@= .         .%@@@@@@*     . .%@c   . s@%@%`           =@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.51s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.51s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 480.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-26-clip)">      s@= . =@%@@@@@@@- . :@@@@@%@s            s@@@@%@* .     *@@- .. -@%@%: .      .  +@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.57s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.57s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 498.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-27-clip)">      s@+ .  c@@@@%%@c    c@@@@@@@%`           +@@@@@#`     -#@@* .  -%%@%: .        `c@@%@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.63s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.63s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 515.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-28-clip)">      s@#` .  =s@@@@@` . -@%%@@@@%@= .         `%%%%s.    .c@@s:    =@@@#: .   .   `+%@@@%@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.69s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.69s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 533.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-29-clip)">      s@@#:     `=*s+   .#@@@@@@@@@#.          .--:`     .+*-`    -s@@@c. ..    .-c%@@%@@@@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.75s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.75s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 550.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-30-clip)">      s@%@@c-.          `**cs####%%%: .         -c             `=s@@@#-      .-c#@@@%@@@@@@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.81s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.81s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 568.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-31-clip)">      s@@@@@@%s+-`.               ...           .s` .   ----+*s@@@@#-  ..:-*s%@@@%%@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.87s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.87s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 585.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-32-clip)">      s@@@@%%@@@@@c    -+===-::``````.           +: .  c@@@@@@@%s+: :cs#%@@@@@%%@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.93s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.93s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 603.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-33-clip)">      s@@@@@@@@%%@: . `@@@@@@@@@@@@@@- .         ``   c@@%**+=-`    +@@@@@%%@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="1.99s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="1.99s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 620.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-34-clip)">      s@@@@@@@@@@*    c@%@%%@@@@@@@@@c .            `s@@@=       .. =@%@@@@@@@@@@@@@@@@@@@@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.05s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.05s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 638.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-35-clip)">      s@@@@@@@@@%. . :@@@@@@@@@@@@@@@%`           .-%@@%= ...       +@%@@@@@@@@@@@@@@@@@@@@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.11s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.11s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 655.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-36-clip)">      s@@@@@@@@@- .  c@%@@@@@@@@@@@@@@= .         `@@@#`            +@@@@@@@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.17s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.17s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 673.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-37-clip)">     .s@@@@@@%@#  . :@@@@@@@@@@@@@@@%@s            +@@* .           +@@@@@@@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.23s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.23s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 690.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-38-clip)">     .s@@@@@@@@: .  s@%@@@@@@@@@@@@@@@@` .         `%@*             +@%@@@@@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.29s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.29s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 708.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-39-clip)">     .s@%@%%%@+    -@%@@@@@@@@@@@@@@%@@* .          c@*             +@%@@@@@@@@@@@@@@@@@@@@@@@:     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.35s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.35s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 725.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-40-clip)">     .#@@@@@@#  . .%@@@@@@@@@@@@@@@@@%s= .       .. .:`             +@@@@@@@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.41s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.41s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 743.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-41-clip)">     .`::----`    .*cs#%@@@@@@@@@%s*-`                              +@@@@@@@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.47s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.47s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 760.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-42-clip)">     .-:`.....`..`....``-=c@@@@@@%ssccc*+++=-----:::::`             =@%%@@@@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.53s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.53s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 778.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-43-clip)">      #@@@%%%%%%%%%%%%%%##%@@@@@@@@@@@@@@@@@@@@@@@@@@@c           . +@@@@@@%@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.59s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.59s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 795.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-44-clip)">      s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@%sc+=: .           :+cs#%@@@@@@@@@@@@@@@@@@@@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.65s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.65s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 813.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-45-clip)">      s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@c-:.                        .`-+#@@@@@@@@@@@@@@%@-     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.71s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.71s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 830.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-46-clip)">      c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s***cccccccccccccccccccccccccssc#@@@@@@@@@@@@@%@%`     </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.77s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.77s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 848.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-47-clip)">      .c@@@@@@@@@@@@@@@@@@@@%@%%@@@@%@@%%@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%@@@@@%@@@@@%-      </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.83s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.83s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 865.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-48-clip)">        =#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*`       </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.89s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.89s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 883.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-49-clip)">          `-============================================--------------=================--:.         </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="2.95s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="2.95s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 900.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-50-clip)">                                                                                                    </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="3.01s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="3.01s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 918.25)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-51-clip)">                                                                                                    </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="3.07s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="3.07s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(10 935.75)">
+      <text x="0" y="0" textLength="868.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-52-clip)">                                                                                                    </text>
+      <rect x="0" y="-11.48" width="3" height="14.00" fill="#d9dee5" opacity="0">
+        <animate attributeName="x" from="0" to="865.00" begin="3.13s" dur="0.75s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.90;1" begin="3.13s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+</svg>

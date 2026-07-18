@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+pillow
+numpy
+opencv-python
+# CPU backend included so portrait generation works in a fresh environment.
+rembg[cpu]
