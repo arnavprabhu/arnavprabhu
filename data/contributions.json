@@ -2577,16 +2577,23 @@
       "weekday": 3
     },
     {
-      "count": 0,
+      "count": 19,
       "date": "2026-08-20",
-      "level": 0,
+      "level": 1,
       "week": 52,
       "weekday": 4
+    },
+    {
+      "count": 2,
+      "date": "2026-08-21",
+      "level": 1,
+      "week": 52,
+      "weekday": 5
     }
   ],
-  "generated_at": "2026-08-20T07:09:36Z",
+  "generated_at": "2026-08-21T07:10:41Z",
   "period": {
-    "end": "2026-08-20",
+    "end": "2026-08-21",
     "start": "2025-08-17"
   },
   "stats": {
@@ -2594,8 +2601,8 @@
       "count": 115,
       "date": "2026-07-27"
     },
-    "current_streak": 0,
-    "longest_streak": 34,
+    "current_streak": 36,
+    "longest_streak": 36,
     "monthly_totals": {
       "2025-08": 0,
       "2025-09": 0,
@@ -2609,9 +2616,9 @@
       "2026-05": 185,
       "2026-06": 152,
       "2026-07": 224,
-      "2026-08": 45
+      "2026-08": 66
     },
-    "total": 1009
+    "total": 1030
   },
   "username": "arnavprabhu"
 }
