@@ -1277,7 +1277,7 @@
     {
       "count": 58,
       "date": "2026-02-22",
-      "level": 2,
+      "level": 1,
       "week": 26,
       "weekday": 0
     },
@@ -1942,14 +1942,14 @@
     {
       "count": 80,
       "date": "2026-05-28",
-      "level": 3,
+      "level": 2,
       "week": 39,
       "weekday": 4
     },
     {
       "count": 47,
       "date": "2026-05-29",
-      "level": 2,
+      "level": 1,
       "week": 39,
       "weekday": 5
     },
@@ -2362,7 +2362,7 @@
     {
       "count": 112,
       "date": "2026-07-27",
-      "level": 4,
+      "level": 2,
       "week": 48,
       "weekday": 1
     },
@@ -2535,7 +2535,7 @@
       "weekday": 4
     },
     {
-      "count": 4,
+      "count": 3,
       "date": "2026-08-21",
       "level": 1,
       "week": 51,
@@ -2565,7 +2565,7 @@
     {
       "count": 126,
       "date": "2026-08-25",
-      "level": 4,
+      "level": 3,
       "week": 52,
       "weekday": 2
     },
@@ -2584,25 +2584,32 @@
       "weekday": 4
     },
     {
-      "count": 0,
+      "count": 243,
       "date": "2026-08-28",
-      "level": 0,
+      "level": 4,
       "week": 52,
       "weekday": 5
+    },
+    {
+      "count": 0,
+      "date": "2026-08-29",
+      "level": 0,
+      "week": 52,
+      "weekday": 6
     }
   ],
-  "generated_at": "2026-08-28T18:48:02Z",
+  "generated_at": "2026-08-29T12:43:53Z",
   "period": {
-    "end": "2026-08-28",
+    "end": "2026-08-29",
     "start": "2025-08-24"
   },
   "stats": {
     "best_day": {
-      "count": 126,
-      "date": "2026-08-25"
+      "count": 243,
+      "date": "2026-08-28"
     },
     "current_streak": 0,
-    "longest_streak": 42,
+    "longest_streak": 43,
     "monthly_totals": {
       "2025-08": 0,
       "2025-09": 0,
@@ -2616,9 +2623,9 @@
       "2026-05": 185,
       "2026-06": 29,
       "2026-07": 200,
-      "2026-08": 266
+      "2026-08": 508
     },
-    "total": 1083
+    "total": 1325
   },
   "username": "arnavprabhu"
 }
