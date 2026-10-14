@@ -941,7 +941,7 @@
     {
       "count": 46,
       "date": "2026-02-23",
-      "level": 2,
+      "level": 1,
       "week": 19,
       "weekday": 1
     },
@@ -962,7 +962,7 @@
     {
       "count": 34,
       "date": "2026-02-26",
-      "level": 2,
+      "level": 1,
       "week": 19,
       "weekday": 4
     },
@@ -1249,7 +1249,7 @@
     {
       "count": 37,
       "date": "2026-04-08",
-      "level": 2,
+      "level": 1,
       "week": 25,
       "weekday": 3
     },
@@ -1599,14 +1599,14 @@
     {
       "count": 91,
       "date": "2026-05-28",
-      "level": 3,
+      "level": 2,
       "week": 32,
       "weekday": 4
     },
     {
       "count": 49,
       "date": "2026-05-29",
-      "level": 2,
+      "level": 1,
       "week": 32,
       "weekday": 5
     },
@@ -2019,7 +2019,7 @@
     {
       "count": 115,
       "date": "2026-07-27",
-      "level": 4,
+      "level": 3,
       "week": 41,
       "weekday": 1
     },
@@ -2222,7 +2222,7 @@
     {
       "count": 142,
       "date": "2026-08-25",
-      "level": 4,
+      "level": 3,
       "week": 45,
       "weekday": 2
     },
@@ -2397,14 +2397,14 @@
     {
       "count": 110,
       "date": "2026-09-19",
-      "level": 4,
+      "level": 3,
       "week": 48,
       "weekday": 6
     },
     {
       "count": 44,
       "date": "2026-09-20",
-      "level": 2,
+      "level": 1,
       "week": 49,
       "weekday": 0
     },
@@ -2418,14 +2418,14 @@
     {
       "count": 49,
       "date": "2026-09-22",
-      "level": 2,
+      "level": 1,
       "week": 49,
       "weekday": 2
     },
     {
       "count": 76,
       "date": "2026-09-23",
-      "level": 3,
+      "level": 2,
       "week": 49,
       "weekday": 3
     },
@@ -2446,7 +2446,7 @@
     {
       "count": 114,
       "date": "2026-09-26",
-      "level": 4,
+      "level": 3,
       "week": 49,
       "weekday": 6
     },
@@ -2467,14 +2467,14 @@
     {
       "count": 77,
       "date": "2026-09-29",
-      "level": 3,
+      "level": 2,
       "week": 50,
       "weekday": 2
     },
     {
       "count": 38,
       "date": "2026-09-30",
-      "level": 2,
+      "level": 1,
       "week": 50,
       "weekday": 3
     },
@@ -2523,21 +2523,21 @@
     {
       "count": 69,
       "date": "2026-10-07",
-      "level": 3,
+      "level": 2,
       "week": 51,
       "weekday": 3
     },
     {
       "count": 94,
       "date": "2026-10-08",
-      "level": 3,
+      "level": 2,
       "week": 51,
       "weekday": 4
     },
     {
       "count": 84,
       "date": "2026-10-09",
-      "level": 3,
+      "level": 2,
       "week": 51,
       "weekday": 5
     },
@@ -2551,28 +2551,35 @@
     {
       "count": 75,
       "date": "2026-10-11",
-      "level": 3,
+      "level": 2,
       "week": 52,
       "weekday": 0
     },
     {
       "count": 111,
       "date": "2026-10-12",
-      "level": 4,
+      "level": 3,
       "week": 52,
       "weekday": 1
     },
     {
-      "count": 132,
+      "count": 202,
       "date": "2026-10-13",
       "level": 4,
       "week": 52,
       "weekday": 2
+    },
+    {
+      "count": 0,
+      "date": "2026-10-14",
+      "level": 0,
+      "week": 52,
+      "weekday": 3
     }
   ],
-  "generated_at": "2026-10-13T14:20:20Z",
+  "generated_at": "2026-10-14T12:02:23Z",
   "period": {
-    "end": "2026-10-13",
+    "end": "2026-10-14",
     "start": "2025-10-12"
   },
   "stats": {
@@ -2580,7 +2587,7 @@
       "count": 248,
       "date": "2026-08-28"
     },
-    "current_streak": 107,
+    "current_streak": 0,
     "longest_streak": 149,
     "monthly_totals": {
       "2025-10": 76,
@@ -2595,9 +2602,9 @@
       "2026-07": 317,
       "2026-08": 707,
       "2026-09": 967,
-      "2026-10": 710
+      "2026-10": 780
     },
-    "total": 5068
+    "total": 5138
   },
   "username": "arnavprabhu"
 }
