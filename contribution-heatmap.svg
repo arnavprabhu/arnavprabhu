@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="225" viewBox="0 0 860 225" role="img" aria-labelledby="heatmap-title">
-  <title id="heatmap-title">arnavprabhu GitHub contribution heatmap: 5,714 contributions · 0-day streak · longest 129 days, from 2025-11-02 to 2026-11-05.</title>
+  <title id="heatmap-title">arnavprabhu GitHub contribution heatmap: 6,742 contributions · 131-day streak · longest 131 days, from 2025-11-02 to 2026-11-06.</title>
   <rect width="860" height="225" rx="10" fill="#0d1117"/>
   <text x="14" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600" fill="#c9d1d9">arnavprabhu@github · contributions</text>
-  <text x="14" y="41" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">2025-11-02 → 2026-11-05</text>
+  <text x="14" y="41" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">2025-11-02 → 2026-11-06</text>
   <rect x="14" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2025-11-02">
     <title>2025-11-02: 5 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.010s"/>
@@ -460,7 +460,7 @@
     <animate attributeName="y" from="131" to="137" begin="0.475s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.475s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="174" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-01-17">
+  <rect x="174" y="153" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-01-17">
     <title>2026-01-17: 33 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.520s"/>
     <animate attributeName="y" from="147" to="153" begin="0.520s" dur="0.38s" fill="freeze"/>
@@ -676,13 +676,13 @@
     <animate attributeName="y" from="147" to="153" begin="0.640s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.640s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="270" y="57" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-02-22">
+  <rect x="270" y="57" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-02-22">
     <title>2026-02-22: 65 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.394s"/>
     <animate attributeName="y" from="51" to="57" begin="0.394s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.394s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="270" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-02-23">
+  <rect x="270" y="73" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-02-23">
     <title>2026-02-23: 46 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.439s"/>
     <animate attributeName="y" from="67" to="73" begin="0.439s" dur="0.38s" fill="freeze"/>
@@ -694,13 +694,13 @@
     <animate attributeName="y" from="83" to="89" begin="0.484s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.484s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="270" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-02-25">
+  <rect x="270" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-02-25">
     <title>2026-02-25: 32 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.529s"/>
     <animate attributeName="y" from="99" to="105" begin="0.529s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.529s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="270" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-02-26">
+  <rect x="270" y="121" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-02-26">
     <title>2026-02-26: 34 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.574s"/>
     <animate attributeName="y" from="115" to="121" begin="0.574s" dur="0.38s" fill="freeze"/>
@@ -719,55 +719,55 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.664s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="286" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-01">
-    <title>2026-03-01: 24 contributions</title>
+    <title>2026-03-01: 25 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.418s"/>
     <animate attributeName="y" from="51" to="57" begin="0.418s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.418s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="286" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-02">
-    <title>2026-03-02: 12 contributions</title>
+    <title>2026-03-02: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.463s"/>
     <animate attributeName="y" from="67" to="73" begin="0.463s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.463s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="286" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-03">
-    <title>2026-03-03: 10 contributions</title>
+    <title>2026-03-03: 14 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.508s"/>
     <animate attributeName="y" from="83" to="89" begin="0.508s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.508s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="286" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-04">
-    <title>2026-03-04: 26 contributions</title>
+  <rect x="286" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-03-04">
+    <title>2026-03-04: 40 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.553s"/>
     <animate attributeName="y" from="99" to="105" begin="0.553s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.553s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="286" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-05">
-    <title>2026-03-05: 3 contributions</title>
+    <title>2026-03-05: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.598s"/>
     <animate attributeName="y" from="115" to="121" begin="0.598s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.598s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="286" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-06">
-    <title>2026-03-06: 4 contributions</title>
+    <title>2026-03-06: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.643s"/>
     <animate attributeName="y" from="131" to="137" begin="0.643s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.643s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="286" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-07">
-    <title>2026-03-07: 24 contributions</title>
+    <title>2026-03-07: 30 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.688s"/>
     <animate attributeName="y" from="147" to="153" begin="0.688s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.688s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="302" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-08">
-    <title>2026-03-08: 6 contributions</title>
+    <title>2026-03-08: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.442s"/>
     <animate attributeName="y" from="51" to="57" begin="0.442s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.442s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="302" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-09">
-    <title>2026-03-09: 3 contributions</title>
+    <title>2026-03-09: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.487s"/>
     <animate attributeName="y" from="67" to="73" begin="0.487s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.487s" dur="0.26s" fill="freeze"/>
@@ -779,235 +779,235 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.532s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="302" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-11">
-    <title>2026-03-11: 2 contributions</title>
+    <title>2026-03-11: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.577s"/>
     <animate attributeName="y" from="99" to="105" begin="0.577s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.577s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="302" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-12">
-    <title>2026-03-12: 4 contributions</title>
+    <title>2026-03-12: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.622s"/>
     <animate attributeName="y" from="115" to="121" begin="0.622s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.622s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="302" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-13">
-    <title>2026-03-13: 6 contributions</title>
+    <title>2026-03-13: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.667s"/>
     <animate attributeName="y" from="131" to="137" begin="0.667s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.667s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="302" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-14">
-    <title>2026-03-14: 28 contributions</title>
+  <rect x="302" y="153" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-03-14">
+    <title>2026-03-14: 46 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.712s"/>
     <animate attributeName="y" from="147" to="153" begin="0.712s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.712s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="318" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-15">
-    <title>2026-03-15: 24 contributions</title>
+    <title>2026-03-15: 28 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.466s"/>
     <animate attributeName="y" from="51" to="57" begin="0.466s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.466s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="318" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-16">
-    <title>2026-03-16: 18 contributions</title>
+    <title>2026-03-16: 26 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.511s"/>
     <animate attributeName="y" from="67" to="73" begin="0.511s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.511s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="318" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-17">
-    <title>2026-03-17: 24 contributions</title>
+    <title>2026-03-17: 29 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.556s"/>
     <animate attributeName="y" from="83" to="89" begin="0.556s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.556s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="318" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-18">
-    <title>2026-03-18: 5 contributions</title>
+    <title>2026-03-18: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.601s"/>
     <animate attributeName="y" from="99" to="105" begin="0.601s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.601s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="318" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-19">
-    <title>2026-03-19: 2 contributions</title>
+    <title>2026-03-19: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.646s"/>
     <animate attributeName="y" from="115" to="121" begin="0.646s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.646s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="318" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-20">
-    <title>2026-03-20: 1 contributions</title>
+    <title>2026-03-20: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.691s"/>
     <animate attributeName="y" from="131" to="137" begin="0.691s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.691s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="318" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-21">
-    <title>2026-03-21: 11 contributions</title>
+    <title>2026-03-21: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.736s"/>
     <animate attributeName="y" from="147" to="153" begin="0.736s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.736s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="334" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-22">
-    <title>2026-03-22: 9 contributions</title>
+    <title>2026-03-22: 18 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.490s"/>
     <animate attributeName="y" from="51" to="57" begin="0.490s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.490s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="334" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-23">
-    <title>2026-03-23: 6 contributions</title>
+    <title>2026-03-23: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.535s"/>
     <animate attributeName="y" from="67" to="73" begin="0.535s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.535s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="334" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-24">
-    <title>2026-03-24: 9 contributions</title>
+    <title>2026-03-24: 14 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.580s"/>
     <animate attributeName="y" from="83" to="89" begin="0.580s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.580s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="334" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-25">
-    <title>2026-03-25: 9 contributions</title>
+    <title>2026-03-25: 18 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.625s"/>
     <animate attributeName="y" from="99" to="105" begin="0.625s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.625s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="334" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-26">
-    <title>2026-03-26: 1 contributions</title>
+    <title>2026-03-26: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.670s"/>
     <animate attributeName="y" from="115" to="121" begin="0.670s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.670s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="334" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-27">
-    <title>2026-03-27: 2 contributions</title>
+    <title>2026-03-27: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.715s"/>
     <animate attributeName="y" from="131" to="137" begin="0.715s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.715s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="334" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-28">
-    <title>2026-03-28: 4 contributions</title>
+    <title>2026-03-28: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.760s"/>
     <animate attributeName="y" from="147" to="153" begin="0.760s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.760s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="350" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-29">
-    <title>2026-03-29: 1 contributions</title>
+    <title>2026-03-29: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.514s"/>
     <animate attributeName="y" from="51" to="57" begin="0.514s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.514s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="350" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-30">
-    <title>2026-03-30: 1 contributions</title>
+    <title>2026-03-30: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.559s"/>
     <animate attributeName="y" from="67" to="73" begin="0.559s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.559s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="350" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-03-31">
-    <title>2026-03-31: 2 contributions</title>
+    <title>2026-03-31: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.604s"/>
     <animate attributeName="y" from="83" to="89" begin="0.604s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.604s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="350" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-01">
-    <title>2026-04-01: 3 contributions</title>
+    <title>2026-04-01: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.649s"/>
     <animate attributeName="y" from="99" to="105" begin="0.649s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.649s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="350" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-02">
-    <title>2026-04-02: 8 contributions</title>
+    <title>2026-04-02: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.694s"/>
     <animate attributeName="y" from="115" to="121" begin="0.694s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.694s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="350" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-03">
-    <title>2026-04-03: 2 contributions</title>
+    <title>2026-04-03: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.739s"/>
     <animate attributeName="y" from="131" to="137" begin="0.739s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.739s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="350" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-04">
-    <title>2026-04-04: 5 contributions</title>
+    <title>2026-04-04: 10 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.784s"/>
     <animate attributeName="y" from="147" to="153" begin="0.784s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.784s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="366" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-05">
-    <title>2026-04-05: 2 contributions</title>
+    <title>2026-04-05: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.538s"/>
     <animate attributeName="y" from="51" to="57" begin="0.538s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.538s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="366" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-06">
-    <title>2026-04-06: 3 contributions</title>
+    <title>2026-04-06: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.583s"/>
     <animate attributeName="y" from="67" to="73" begin="0.583s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.583s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="366" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-07">
-    <title>2026-04-07: 16 contributions</title>
+    <title>2026-04-07: 19 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.628s"/>
     <animate attributeName="y" from="83" to="89" begin="0.628s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.628s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="366" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-08">
-    <title>2026-04-08: 37 contributions</title>
+  <rect x="366" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-04-08">
+    <title>2026-04-08: 43 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.673s"/>
     <animate attributeName="y" from="99" to="105" begin="0.673s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.673s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="366" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-09">
-    <title>2026-04-09: 5 contributions</title>
+    <title>2026-04-09: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.718s"/>
     <animate attributeName="y" from="115" to="121" begin="0.718s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.718s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="366" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-10">
-    <title>2026-04-10: 5 contributions</title>
+    <title>2026-04-10: 10 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.763s"/>
     <animate attributeName="y" from="131" to="137" begin="0.763s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.763s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="366" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-11">
-    <title>2026-04-11: 3 contributions</title>
+    <title>2026-04-11: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.808s"/>
     <animate attributeName="y" from="147" to="153" begin="0.808s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.808s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="382" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-12">
-    <title>2026-04-12: 4 contributions</title>
+    <title>2026-04-12: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.562s"/>
     <animate attributeName="y" from="51" to="57" begin="0.562s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.562s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="382" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-13">
-    <title>2026-04-13: 1 contributions</title>
+    <title>2026-04-13: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.607s"/>
     <animate attributeName="y" from="67" to="73" begin="0.607s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.607s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="382" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-14">
-    <title>2026-04-14: 6 contributions</title>
+    <title>2026-04-14: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.652s"/>
     <animate attributeName="y" from="83" to="89" begin="0.652s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.652s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="382" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-15">
-    <title>2026-04-15: 9 contributions</title>
+    <title>2026-04-15: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.697s"/>
     <animate attributeName="y" from="99" to="105" begin="0.697s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.697s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="382" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-16">
-    <title>2026-04-16: 22 contributions</title>
+  <rect x="382" y="121" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-04-16">
+    <title>2026-04-16: 40 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.742s"/>
     <animate attributeName="y" from="115" to="121" begin="0.742s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.742s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="382" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-17">
-    <title>2026-04-17: 5 contributions</title>
+    <title>2026-04-17: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.787s"/>
     <animate attributeName="y" from="131" to="137" begin="0.787s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.787s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="382" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-18">
-    <title>2026-04-18: 5 contributions</title>
+    <title>2026-04-18: 10 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.832s"/>
     <animate attributeName="y" from="147" to="153" begin="0.832s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.832s" dur="0.26s" fill="freeze"/>
@@ -1019,265 +1019,265 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.586s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="398" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-20">
-    <title>2026-04-20: 18 contributions</title>
+    <title>2026-04-20: 22 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.631s"/>
     <animate attributeName="y" from="67" to="73" begin="0.631s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.631s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="398" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-21">
-    <title>2026-04-21: 12 contributions</title>
+    <title>2026-04-21: 15 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.676s"/>
     <animate attributeName="y" from="83" to="89" begin="0.676s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.676s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="398" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-22">
-    <title>2026-04-22: 15 contributions</title>
+    <title>2026-04-22: 24 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.721s"/>
     <animate attributeName="y" from="99" to="105" begin="0.721s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.721s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="398" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-23">
-    <title>2026-04-23: 3 contributions</title>
+    <title>2026-04-23: 5 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.766s"/>
     <animate attributeName="y" from="115" to="121" begin="0.766s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.766s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="398" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-24">
-    <title>2026-04-24: 4 contributions</title>
+    <title>2026-04-24: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.811s"/>
     <animate attributeName="y" from="131" to="137" begin="0.811s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.811s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="398" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-25">
-    <title>2026-04-25: 10 contributions</title>
+    <title>2026-04-25: 20 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.856s"/>
     <animate attributeName="y" from="147" to="153" begin="0.856s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.856s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="414" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-26">
-    <title>2026-04-26: 1 contributions</title>
+    <title>2026-04-26: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.610s"/>
     <animate attributeName="y" from="51" to="57" begin="0.610s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.610s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="414" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-27">
-    <title>2026-04-27: 1 contributions</title>
+    <title>2026-04-27: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.655s"/>
     <animate attributeName="y" from="67" to="73" begin="0.655s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.655s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="414" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-28">
-    <title>2026-04-28: 7 contributions</title>
+    <title>2026-04-28: 14 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.700s"/>
     <animate attributeName="y" from="83" to="89" begin="0.700s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.700s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="414" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-29">
-    <title>2026-04-29: 8 contributions</title>
+    <title>2026-04-29: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.745s"/>
     <animate attributeName="y" from="99" to="105" begin="0.745s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.745s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="414" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-04-30">
-    <title>2026-04-30: 8 contributions</title>
+    <title>2026-04-30: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.790s"/>
     <animate attributeName="y" from="115" to="121" begin="0.790s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.790s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="414" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-01">
-    <title>2026-05-01: 20 contributions</title>
+  <rect x="414" y="137" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-05-01">
+    <title>2026-05-01: 38 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.835s"/>
     <animate attributeName="y" from="131" to="137" begin="0.835s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.835s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="414" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-02">
-    <title>2026-05-02: 9 contributions</title>
+    <title>2026-05-02: 17 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.880s"/>
     <animate attributeName="y" from="147" to="153" begin="0.880s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.880s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="430" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-03">
-    <title>2026-05-03: 3 contributions</title>
+    <title>2026-05-03: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.634s"/>
     <animate attributeName="y" from="51" to="57" begin="0.634s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.634s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="430" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-04">
-    <title>2026-05-04: 8 contributions</title>
+    <title>2026-05-04: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.679s"/>
     <animate attributeName="y" from="67" to="73" begin="0.679s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.679s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="430" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-05">
-    <title>2026-05-05: 1 contributions</title>
+    <title>2026-05-05: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.724s"/>
     <animate attributeName="y" from="83" to="89" begin="0.724s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.724s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="430" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-06">
-    <title>2026-05-06: 6 contributions</title>
+    <title>2026-05-06: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.769s"/>
     <animate attributeName="y" from="99" to="105" begin="0.769s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.769s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="430" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-07">
-    <title>2026-05-07: 2 contributions</title>
+    <title>2026-05-07: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.814s"/>
     <animate attributeName="y" from="115" to="121" begin="0.814s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.814s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="430" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-08">
-    <title>2026-05-08: 12 contributions</title>
+    <title>2026-05-08: 23 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.859s"/>
     <animate attributeName="y" from="131" to="137" begin="0.859s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.859s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="430" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-09">
-    <title>2026-05-09: 6 contributions</title>
+    <title>2026-05-09: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.904s"/>
     <animate attributeName="y" from="147" to="153" begin="0.904s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.904s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="446" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-10">
-    <title>2026-05-10: 14 contributions</title>
+    <title>2026-05-10: 15 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.658s"/>
     <animate attributeName="y" from="51" to="57" begin="0.658s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.658s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="446" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-11">
-    <title>2026-05-11: 18 contributions</title>
+    <title>2026-05-11: 23 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.703s"/>
     <animate attributeName="y" from="67" to="73" begin="0.703s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.703s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="446" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-12">
-    <title>2026-05-12: 20 contributions</title>
+  <rect x="446" y="89" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-05-12">
+    <title>2026-05-12: 35 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.748s"/>
     <animate attributeName="y" from="83" to="89" begin="0.748s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.748s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="446" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-13">
-    <title>2026-05-13: 1 contributions</title>
+    <title>2026-05-13: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.793s"/>
     <animate attributeName="y" from="99" to="105" begin="0.793s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.793s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="446" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-14">
-    <title>2026-05-14: 8 contributions</title>
+    <title>2026-05-14: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.838s"/>
     <animate attributeName="y" from="115" to="121" begin="0.838s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.838s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="446" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-15">
-    <title>2026-05-15: 4 contributions</title>
+    <title>2026-05-15: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.883s"/>
     <animate attributeName="y" from="131" to="137" begin="0.883s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.883s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="446" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-16">
-    <title>2026-05-16: 8 contributions</title>
+    <title>2026-05-16: 13 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.928s"/>
     <animate attributeName="y" from="147" to="153" begin="0.928s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.928s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="462" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-17">
-    <title>2026-05-17: 2 contributions</title>
+    <title>2026-05-17: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.682s"/>
     <animate attributeName="y" from="51" to="57" begin="0.682s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.682s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="462" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-18">
-    <title>2026-05-18: 1 contributions</title>
+    <title>2026-05-18: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.727s"/>
     <animate attributeName="y" from="67" to="73" begin="0.727s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.727s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="462" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-19">
-    <title>2026-05-19: 3 contributions</title>
+    <title>2026-05-19: 5 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.772s"/>
     <animate attributeName="y" from="83" to="89" begin="0.772s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.772s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="462" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-20">
-    <title>2026-05-20: 12 contributions</title>
+    <title>2026-05-20: 24 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.817s"/>
     <animate attributeName="y" from="99" to="105" begin="0.817s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.817s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="462" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-21">
-    <title>2026-05-21: 2 contributions</title>
+    <title>2026-05-21: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.862s"/>
     <animate attributeName="y" from="115" to="121" begin="0.862s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.862s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="462" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-22">
-    <title>2026-05-22: 2 contributions</title>
+    <title>2026-05-22: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.907s"/>
     <animate attributeName="y" from="131" to="137" begin="0.907s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.907s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="462" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-23">
-    <title>2026-05-23: 1 contributions</title>
+    <title>2026-05-23: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.952s"/>
     <animate attributeName="y" from="147" to="153" begin="0.952s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.952s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="478" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-24">
-    <title>2026-05-24: 1 contributions</title>
+    <title>2026-05-24: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.706s"/>
     <animate attributeName="y" from="51" to="57" begin="0.706s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.706s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="478" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-25">
-    <title>2026-05-25: 8 contributions</title>
+    <title>2026-05-25: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.751s"/>
     <animate attributeName="y" from="67" to="73" begin="0.751s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.751s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="478" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-26">
-    <title>2026-05-26: 2 contributions</title>
+    <title>2026-05-26: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.796s"/>
     <animate attributeName="y" from="83" to="89" begin="0.796s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.796s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="478" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-27">
-    <title>2026-05-27: 15 contributions</title>
+    <title>2026-05-27: 17 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.841s"/>
     <animate attributeName="y" from="99" to="105" begin="0.841s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.841s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="478" y="121" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-05-28">
-    <title>2026-05-28: 91 contributions</title>
+  <rect x="478" y="121" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-05-28">
+    <title>2026-05-28: 102 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.886s"/>
     <animate attributeName="y" from="115" to="121" begin="0.886s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.886s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="478" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-29">
-    <title>2026-05-29: 49 contributions</title>
+  <rect x="478" y="137" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-05-29">
+    <title>2026-05-29: 51 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.931s"/>
     <animate attributeName="y" from="131" to="137" begin="0.931s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.931s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="478" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-30">
-    <title>2026-05-30: 2 contributions</title>
+    <title>2026-05-30: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.976s"/>
     <animate attributeName="y" from="147" to="153" begin="0.976s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.976s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="494" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-05-31">
-    <title>2026-05-31: 13 contributions</title>
+    <title>2026-05-31: 26 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.730s"/>
     <animate attributeName="y" from="51" to="57" begin="0.730s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.730s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="494" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-01">
-    <title>2026-06-01: 13 contributions</title>
+    <title>2026-06-01: 26 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.775s"/>
     <animate attributeName="y" from="67" to="73" begin="0.775s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.775s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="494" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-02">
-    <title>2026-06-02: 3 contributions</title>
+    <title>2026-06-02: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.820s"/>
     <animate attributeName="y" from="83" to="89" begin="0.820s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.820s" dur="0.26s" fill="freeze"/>
@@ -1289,37 +1289,37 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.865s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="494" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-04">
-    <title>2026-06-04: 11 contributions</title>
+    <title>2026-06-04: 22 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.910s"/>
     <animate attributeName="y" from="115" to="121" begin="0.910s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.910s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="494" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-05">
-    <title>2026-06-05: 3 contributions</title>
+    <title>2026-06-05: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.955s"/>
     <animate attributeName="y" from="131" to="137" begin="0.955s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.955s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="494" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-06">
-    <title>2026-06-06: 1 contributions</title>
+    <title>2026-06-06: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.000s"/>
     <animate attributeName="y" from="147" to="153" begin="1.000s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.000s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="510" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-07">
-    <title>2026-06-07: 3 contributions</title>
+    <title>2026-06-07: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.754s"/>
     <animate attributeName="y" from="51" to="57" begin="0.754s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.754s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="510" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-08">
-    <title>2026-06-08: 4 contributions</title>
+    <title>2026-06-08: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.799s"/>
     <animate attributeName="y" from="67" to="73" begin="0.799s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.799s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="510" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-09">
-    <title>2026-06-09: 13 contributions</title>
+    <title>2026-06-09: 26 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.844s"/>
     <animate attributeName="y" from="83" to="89" begin="0.844s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.844s" dur="0.26s" fill="freeze"/>
@@ -1330,104 +1330,104 @@
     <animate attributeName="y" from="99" to="105" begin="0.889s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.889s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="510" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-11">
-    <title>2026-06-11: 18 contributions</title>
+  <rect x="510" y="121" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-06-11">
+    <title>2026-06-11: 36 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.934s"/>
     <animate attributeName="y" from="115" to="121" begin="0.934s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.934s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="510" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-12">
-    <title>2026-06-12: 1 contributions</title>
+    <title>2026-06-12: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.979s"/>
     <animate attributeName="y" from="131" to="137" begin="0.979s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.979s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="510" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-13">
-    <title>2026-06-13: 5 contributions</title>
+    <title>2026-06-13: 10 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.024s"/>
     <animate attributeName="y" from="147" to="153" begin="1.024s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.024s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="526" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-14">
-    <title>2026-06-14: 3 contributions</title>
+    <title>2026-06-14: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.778s"/>
     <animate attributeName="y" from="51" to="57" begin="0.778s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.778s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="526" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-15">
-    <title>2026-06-15: 2 contributions</title>
+    <title>2026-06-15: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.823s"/>
     <animate attributeName="y" from="67" to="73" begin="0.823s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.823s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="526" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-16">
-    <title>2026-06-16: 5 contributions</title>
+    <title>2026-06-16: 10 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.868s"/>
     <animate attributeName="y" from="83" to="89" begin="0.868s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.868s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="526" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-17">
-    <title>2026-06-17: 2 contributions</title>
+    <title>2026-06-17: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.913s"/>
     <animate attributeName="y" from="99" to="105" begin="0.913s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.913s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="526" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-18">
-    <title>2026-06-18: 7 contributions</title>
+    <title>2026-06-18: 14 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.958s"/>
     <animate attributeName="y" from="115" to="121" begin="0.958s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.958s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="526" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-19">
-    <title>2026-06-19: 19 contributions</title>
+  <rect x="526" y="137" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-06-19">
+    <title>2026-06-19: 34 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.003s"/>
     <animate attributeName="y" from="131" to="137" begin="1.003s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.003s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="526" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-20">
-    <title>2026-06-20: 22 contributions</title>
+    <title>2026-06-20: 31 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.048s"/>
     <animate attributeName="y" from="147" to="153" begin="1.048s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.048s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="542" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-21">
-    <title>2026-06-21: 7 contributions</title>
+    <title>2026-06-21: 13 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.802s"/>
     <animate attributeName="y" from="51" to="57" begin="0.802s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.802s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="542" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-22">
-    <title>2026-06-22: 9 contributions</title>
+    <title>2026-06-22: 18 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.847s"/>
     <animate attributeName="y" from="67" to="73" begin="0.847s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.847s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="542" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-23">
-    <title>2026-06-23: 3 contributions</title>
+    <title>2026-06-23: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.892s"/>
     <animate attributeName="y" from="83" to="89" begin="0.892s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.892s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="542" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-24">
-    <title>2026-06-24: 2 contributions</title>
+    <title>2026-06-24: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.937s"/>
     <animate attributeName="y" from="99" to="105" begin="0.937s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.937s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="542" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-25">
-    <title>2026-06-25: 3 contributions</title>
+    <title>2026-06-25: 5 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.982s"/>
     <animate attributeName="y" from="115" to="121" begin="0.982s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.982s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="542" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-26">
-    <title>2026-06-26: 4 contributions</title>
+    <title>2026-06-26: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.027s"/>
     <animate attributeName="y" from="131" to="137" begin="1.027s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.027s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="542" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-27">
-    <title>2026-06-27: 1 contributions</title>
+    <title>2026-06-27: 2 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.072s"/>
     <animate attributeName="y" from="147" to="153" begin="1.072s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.072s" dur="0.26s" fill="freeze"/>
@@ -1439,145 +1439,145 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.826s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="558" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-29">
-    <title>2026-06-29: 7 contributions</title>
+    <title>2026-06-29: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.871s"/>
     <animate attributeName="y" from="67" to="73" begin="0.871s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.871s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="558" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-06-30">
-    <title>2026-06-30: 7 contributions</title>
+    <title>2026-06-30: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.916s"/>
     <animate attributeName="y" from="83" to="89" begin="0.916s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.916s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="558" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-01">
-    <title>2026-07-01: 4 contributions</title>
+    <title>2026-07-01: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.961s"/>
     <animate attributeName="y" from="99" to="105" begin="0.961s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.961s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="558" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-02">
-    <title>2026-07-02: 8 contributions</title>
+    <title>2026-07-02: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.006s"/>
     <animate attributeName="y" from="115" to="121" begin="1.006s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.006s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="558" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-03">
-    <title>2026-07-03: 24 contributions</title>
+    <title>2026-07-03: 30 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.051s"/>
     <animate attributeName="y" from="131" to="137" begin="1.051s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.051s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="558" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-04">
-    <title>2026-07-04: 3 contributions</title>
+    <title>2026-07-04: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.096s"/>
     <animate attributeName="y" from="147" to="153" begin="1.096s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.096s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="574" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-05">
-    <title>2026-07-05: 2 contributions</title>
+    <title>2026-07-05: 3 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.850s"/>
     <animate attributeName="y" from="51" to="57" begin="0.850s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.850s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="574" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-06">
-    <title>2026-07-06: 9 contributions</title>
+    <title>2026-07-06: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.895s"/>
     <animate attributeName="y" from="67" to="73" begin="0.895s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.895s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="574" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-07">
-    <title>2026-07-07: 12 contributions</title>
+    <title>2026-07-07: 13 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.940s"/>
     <animate attributeName="y" from="83" to="89" begin="0.940s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.940s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="574" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-08">
-    <title>2026-07-08: 3 contributions</title>
+    <title>2026-07-08: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.985s"/>
     <animate attributeName="y" from="99" to="105" begin="0.985s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.985s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="574" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-09">
-    <title>2026-07-09: 14 contributions</title>
+    <title>2026-07-09: 21 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.030s"/>
     <animate attributeName="y" from="115" to="121" begin="1.030s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.030s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="574" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-10">
-    <title>2026-07-10: 15 contributions</title>
+    <title>2026-07-10: 24 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.075s"/>
     <animate attributeName="y" from="131" to="137" begin="1.075s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.075s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="574" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-11">
-    <title>2026-07-11: 5 contributions</title>
+    <title>2026-07-11: 10 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.120s"/>
     <animate attributeName="y" from="147" to="153" begin="1.120s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.120s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="590" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-12">
-    <title>2026-07-12: 3 contributions</title>
+    <title>2026-07-12: 4 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.874s"/>
     <animate attributeName="y" from="51" to="57" begin="0.874s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.874s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="590" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-13">
-    <title>2026-07-13: 4 contributions</title>
+    <title>2026-07-13: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.919s"/>
     <animate attributeName="y" from="67" to="73" begin="0.919s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.919s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="590" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-14">
-    <title>2026-07-14: 4 contributions</title>
+    <title>2026-07-14: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.964s"/>
     <animate attributeName="y" from="83" to="89" begin="0.964s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.964s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="590" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-15">
-    <title>2026-07-15: 9 contributions</title>
+    <title>2026-07-15: 18 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.009s"/>
     <animate attributeName="y" from="99" to="105" begin="1.009s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.009s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="590" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-16">
-    <title>2026-07-16: 4 contributions</title>
+    <title>2026-07-16: 8 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.054s"/>
     <animate attributeName="y" from="115" to="121" begin="1.054s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.054s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="590" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-17">
-    <title>2026-07-17: 5 contributions</title>
+    <title>2026-07-17: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.099s"/>
     <animate attributeName="y" from="131" to="137" begin="1.099s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.099s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="590" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-18">
-    <title>2026-07-18: 12 contributions</title>
+    <title>2026-07-18: 13 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.144s"/>
     <animate attributeName="y" from="147" to="153" begin="1.144s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.144s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="606" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-19">
-    <title>2026-07-19: 4 contributions</title>
+    <title>2026-07-19: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.898s"/>
     <animate attributeName="y" from="51" to="57" begin="0.898s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.898s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="606" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-20">
-    <title>2026-07-20: 12 contributions</title>
+    <title>2026-07-20: 17 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.943s"/>
     <animate attributeName="y" from="67" to="73" begin="0.943s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.943s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="606" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-21">
-    <title>2026-07-21: 5 contributions</title>
+    <title>2026-07-21: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.988s"/>
     <animate attributeName="y" from="83" to="89" begin="0.988s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.988s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="606" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-22">
-    <title>2026-07-22: 6 contributions</title>
+    <title>2026-07-22: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.033s"/>
     <animate attributeName="y" from="99" to="105" begin="1.033s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.033s" dur="0.26s" fill="freeze"/>
@@ -1589,301 +1589,301 @@
     <animate attributeName="opacity" from="0" to="1" begin="1.078s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="606" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-24">
-    <title>2026-07-24: 7 contributions</title>
+    <title>2026-07-24: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.123s"/>
     <animate attributeName="y" from="131" to="137" begin="1.123s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.123s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="606" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-25">
-    <title>2026-07-25: 4 contributions</title>
+    <title>2026-07-25: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.168s"/>
     <animate attributeName="y" from="147" to="153" begin="1.168s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.168s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="622" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-26">
-    <title>2026-07-26: 8 contributions</title>
+    <title>2026-07-26: 10 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.922s"/>
     <animate attributeName="y" from="51" to="57" begin="0.922s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.922s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="622" y="73" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-07-27">
-    <title>2026-07-27: 115 contributions</title>
+  <rect x="622" y="73" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-07-27">
+    <title>2026-07-27: 118 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.967s"/>
     <animate attributeName="y" from="67" to="73" begin="0.967s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.967s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="622" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-28">
-    <title>2026-07-28: 5 contributions</title>
+    <title>2026-07-28: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.012s"/>
     <animate attributeName="y" from="83" to="89" begin="1.012s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.012s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="622" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-29">
-    <title>2026-07-29: 3 contributions</title>
+    <title>2026-07-29: 5 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.057s"/>
     <animate attributeName="y" from="99" to="105" begin="1.057s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.057s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="622" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-30">
-    <title>2026-07-30: 2 contributions</title>
+    <title>2026-07-30: 3 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.102s"/>
     <animate attributeName="y" from="115" to="121" begin="1.102s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.102s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="622" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-07-31">
-    <title>2026-07-31: 5 contributions</title>
+    <title>2026-07-31: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.147s"/>
     <animate attributeName="y" from="131" to="137" begin="1.147s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.147s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="622" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-01">
-    <title>2026-08-01: 8 contributions</title>
+    <title>2026-08-01: 15 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.192s"/>
     <animate attributeName="y" from="147" to="153" begin="1.192s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.192s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="638" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-02">
-    <title>2026-08-02: 6 contributions</title>
+    <title>2026-08-02: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.946s"/>
     <animate attributeName="y" from="51" to="57" begin="0.946s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.946s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="638" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-03">
-    <title>2026-08-03: 11 contributions</title>
+    <title>2026-08-03: 21 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.991s"/>
     <animate attributeName="y" from="67" to="73" begin="0.991s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.991s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="638" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-04">
-    <title>2026-08-04: 5 contributions</title>
+    <title>2026-08-04: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.036s"/>
     <animate attributeName="y" from="83" to="89" begin="1.036s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.036s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="638" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-05">
-    <title>2026-08-05: 5 contributions</title>
+    <title>2026-08-05: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.081s"/>
     <animate attributeName="y" from="99" to="105" begin="1.081s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.081s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="638" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-06">
-    <title>2026-08-06: 4 contributions</title>
+    <title>2026-08-06: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.126s"/>
     <animate attributeName="y" from="115" to="121" begin="1.126s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.126s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="638" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-07">
-    <title>2026-08-07: 9 contributions</title>
+    <title>2026-08-07: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.171s"/>
     <animate attributeName="y" from="131" to="137" begin="1.171s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.171s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="638" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-08">
-    <title>2026-08-08: 4 contributions</title>
+    <title>2026-08-08: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.216s"/>
     <animate attributeName="y" from="147" to="153" begin="1.216s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.216s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="654" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-09">
-    <title>2026-08-09: 5 contributions</title>
+    <title>2026-08-09: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.970s"/>
     <animate attributeName="y" from="51" to="57" begin="0.970s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.970s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="654" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-10">
-    <title>2026-08-10: 17 contributions</title>
+  <rect x="654" y="73" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-08-10">
+    <title>2026-08-10: 33 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.015s"/>
     <animate attributeName="y" from="67" to="73" begin="1.015s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.015s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="654" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-11">
-    <title>2026-08-11: 8 contributions</title>
+    <title>2026-08-11: 13 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.060s"/>
     <animate attributeName="y" from="83" to="89" begin="1.060s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.060s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="654" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-12">
-    <title>2026-08-12: 2 contributions</title>
+    <title>2026-08-12: 3 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.105s"/>
     <animate attributeName="y" from="99" to="105" begin="1.105s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.105s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="654" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-13">
-    <title>2026-08-13: 2 contributions</title>
+    <title>2026-08-13: 3 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.150s"/>
     <animate attributeName="y" from="115" to="121" begin="1.150s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.150s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="654" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-14">
-    <title>2026-08-14: 9 contributions</title>
+    <title>2026-08-14: 16 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.195s"/>
     <animate attributeName="y" from="131" to="137" begin="1.195s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.195s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="654" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-15">
-    <title>2026-08-15: 2 contributions</title>
+    <title>2026-08-15: 3 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.240s"/>
     <animate attributeName="y" from="147" to="153" begin="1.240s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.240s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="670" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-16">
-    <title>2026-08-16: 10 contributions</title>
+    <title>2026-08-16: 19 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="0.994s"/>
     <animate attributeName="y" from="51" to="57" begin="0.994s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.994s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="670" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-17">
-    <title>2026-08-17: 10 contributions</title>
+    <title>2026-08-17: 14 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.039s"/>
     <animate attributeName="y" from="67" to="73" begin="1.039s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.039s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="670" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-18">
-    <title>2026-08-18: 8 contributions</title>
+    <title>2026-08-18: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.084s"/>
     <animate attributeName="y" from="83" to="89" begin="1.084s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.084s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="670" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-19">
-    <title>2026-08-19: 6 contributions</title>
+    <title>2026-08-19: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.129s"/>
     <animate attributeName="y" from="99" to="105" begin="1.129s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.129s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="670" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-20">
-    <title>2026-08-20: 21 contributions</title>
+    <title>2026-08-20: 23 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.174s"/>
     <animate attributeName="y" from="115" to="121" begin="1.174s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.174s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="670" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-21">
-    <title>2026-08-21: 5 contributions</title>
+    <title>2026-08-21: 7 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.219s"/>
     <animate attributeName="y" from="131" to="137" begin="1.219s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.219s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="670" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-22">
-    <title>2026-08-22: 8 contributions</title>
+    <title>2026-08-22: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.264s"/>
     <animate attributeName="y" from="147" to="153" begin="1.264s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.264s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="686" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-23">
-    <title>2026-08-23: 3 contributions</title>
+    <title>2026-08-23: 5 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.018s"/>
     <animate attributeName="y" from="51" to="57" begin="1.018s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.018s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="686" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-24">
-    <title>2026-08-24: 12 contributions</title>
+    <title>2026-08-24: 20 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.063s"/>
     <animate attributeName="y" from="67" to="73" begin="1.063s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.063s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="686" y="89" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-08-25">
-    <title>2026-08-25: 142 contributions</title>
+  <rect x="686" y="89" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-08-25">
+    <title>2026-08-25: 158 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.108s"/>
     <animate attributeName="y" from="83" to="89" begin="1.108s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.108s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="686" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-08-26">
-    <title>2026-08-26: 64 contributions</title>
+  <rect x="686" y="105" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-08-26">
+    <title>2026-08-26: 66 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.153s"/>
     <animate attributeName="y" from="99" to="105" begin="1.153s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.153s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="686" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-27">
-    <title>2026-08-27: 11 contributions</title>
+    <title>2026-08-27: 13 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.198s"/>
     <animate attributeName="y" from="115" to="121" begin="1.198s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.198s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="686" y="137" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-08-28">
-    <title>2026-08-28: 248 contributions</title>
+    <title>2026-08-28: 253 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.243s"/>
     <animate attributeName="y" from="131" to="137" begin="1.243s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.243s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="686" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-29">
-    <title>2026-08-29: 20 contributions</title>
+    <title>2026-08-29: 21 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.288s"/>
     <animate attributeName="y" from="147" to="153" begin="1.288s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.288s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="702" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-30">
-    <title>2026-08-30: 27 contributions</title>
+  <rect x="702" y="57" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-08-30">
+    <title>2026-08-30: 45 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.042s"/>
     <animate attributeName="y" from="51" to="57" begin="1.042s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.042s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="702" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-08-31">
-    <title>2026-08-31: 15 contributions</title>
+    <title>2026-08-31: 24 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.087s"/>
     <animate attributeName="y" from="67" to="73" begin="1.087s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.087s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="702" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-01">
-    <title>2026-09-01: 10 contributions</title>
+    <title>2026-09-01: 19 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.132s"/>
     <animate attributeName="y" from="83" to="89" begin="1.132s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.132s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="702" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-02">
-    <title>2026-09-02: 4 contributions</title>
+    <title>2026-09-02: 6 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.177s"/>
     <animate attributeName="y" from="99" to="105" begin="1.177s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.177s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="702" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-03">
-    <title>2026-09-03: 7 contributions</title>
+    <title>2026-09-03: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.222s"/>
     <animate attributeName="y" from="115" to="121" begin="1.222s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.222s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="702" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-04">
-    <title>2026-09-04: 5 contributions</title>
+    <title>2026-09-04: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.267s"/>
     <animate attributeName="y" from="131" to="137" begin="1.267s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.267s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="702" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-05">
-    <title>2026-09-05: 13 contributions</title>
+    <title>2026-09-05: 18 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.312s"/>
     <animate attributeName="y" from="147" to="153" begin="1.312s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.312s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="718" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-06">
-    <title>2026-09-06: 6 contributions</title>
+    <title>2026-09-06: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.066s"/>
     <animate attributeName="y" from="51" to="57" begin="1.066s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.066s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="718" y="73" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-07">
-    <title>2026-09-07: 54 contributions</title>
+    <title>2026-09-07: 60 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.111s"/>
     <animate attributeName="y" from="67" to="73" begin="1.111s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.111s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="718" y="89" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-08">
-    <title>2026-09-08: 62 contributions</title>
+  <rect x="718" y="89" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-09-08">
+    <title>2026-09-08: 66 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.156s"/>
     <animate attributeName="y" from="83" to="89" begin="1.156s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.156s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="718" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-09">
-    <title>2026-09-09: 8 contributions</title>
+    <title>2026-09-09: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.201s"/>
     <animate attributeName="y" from="99" to="105" begin="1.201s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.201s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="718" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-10">
-    <title>2026-09-10: 23 contributions</title>
+    <title>2026-09-10: 31 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.246s"/>
     <animate attributeName="y" from="115" to="121" begin="1.246s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.246s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="718" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-11">
-    <title>2026-09-11: 8 contributions</title>
+    <title>2026-09-11: 9 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.291s"/>
     <animate attributeName="y" from="131" to="137" begin="1.291s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.291s" dur="0.26s" fill="freeze"/>
@@ -1895,109 +1895,109 @@
     <animate attributeName="opacity" from="0" to="1" begin="1.336s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="734" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-13">
-    <title>2026-09-13: 11 contributions</title>
+    <title>2026-09-13: 12 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.090s"/>
     <animate attributeName="y" from="51" to="57" begin="1.090s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.090s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="734" y="73" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-14">
-    <title>2026-09-14: 56 contributions</title>
+    <title>2026-09-14: 59 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.135s"/>
     <animate attributeName="y" from="67" to="73" begin="1.135s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.135s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="734" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-15">
-    <title>2026-09-15: 15 contributions</title>
+    <title>2026-09-15: 19 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.180s"/>
     <animate attributeName="y" from="83" to="89" begin="1.180s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.180s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="734" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-16">
-    <title>2026-09-16: 7 contributions</title>
+    <title>2026-09-16: 11 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.225s"/>
     <animate attributeName="y" from="99" to="105" begin="1.225s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.225s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="734" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-17">
-    <title>2026-09-17: 21 contributions</title>
+    <title>2026-09-17: 26 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.270s"/>
     <animate attributeName="y" from="115" to="121" begin="1.270s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.270s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="734" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-18">
-    <title>2026-09-18: 32 contributions</title>
+  <rect x="734" y="137" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-18">
+    <title>2026-09-18: 35 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.315s"/>
     <animate attributeName="y" from="131" to="137" begin="1.315s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.315s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="734" y="153" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-09-19">
-    <title>2026-09-19: 110 contributions</title>
+  <rect x="734" y="153" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-09-19">
+    <title>2026-09-19: 115 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.360s"/>
     <animate attributeName="y" from="147" to="153" begin="1.360s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.360s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="750" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-20">
-    <title>2026-09-20: 44 contributions</title>
+  <rect x="750" y="57" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-20">
+    <title>2026-09-20: 46 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.114s"/>
     <animate attributeName="y" from="51" to="57" begin="1.114s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.114s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="750" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-21">
-    <title>2026-09-21: 15 contributions</title>
+    <title>2026-09-21: 24 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.159s"/>
     <animate attributeName="y" from="67" to="73" begin="1.159s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.159s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="750" y="89" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-22">
-    <title>2026-09-22: 49 contributions</title>
+  <rect x="750" y="89" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-22">
+    <title>2026-09-22: 52 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.204s"/>
     <animate attributeName="y" from="83" to="89" begin="1.204s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.204s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="750" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-23">
-    <title>2026-09-23: 76 contributions</title>
+  <rect x="750" y="105" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-09-23">
+    <title>2026-09-23: 87 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.249s"/>
     <animate attributeName="y" from="99" to="105" begin="1.249s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.249s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="750" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-24">
-    <title>2026-09-24: 14 contributions</title>
+    <title>2026-09-24: 15 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.294s"/>
     <animate attributeName="y" from="115" to="121" begin="1.294s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.294s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="750" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-25">
-    <title>2026-09-25: 33 contributions</title>
+  <rect x="750" y="137" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-25">
+    <title>2026-09-25: 41 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.339s"/>
     <animate attributeName="y" from="131" to="137" begin="1.339s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.339s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="750" y="153" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-09-26">
-    <title>2026-09-26: 114 contributions</title>
+  <rect x="750" y="153" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-09-26">
+    <title>2026-09-26: 117 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.384s"/>
     <animate attributeName="y" from="147" to="153" begin="1.384s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.384s" dur="0.26s" fill="freeze"/>
   </rect>
   <rect x="766" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-27">
-    <title>2026-09-27: 21 contributions</title>
+    <title>2026-09-27: 27 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.138s"/>
     <animate attributeName="y" from="51" to="57" begin="1.138s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.138s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="766" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-28">
-    <title>2026-09-28: 33 contributions</title>
+  <rect x="766" y="73" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-28">
+    <title>2026-09-28: 41 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.183s"/>
     <animate attributeName="y" from="67" to="73" begin="1.183s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.183s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="766" y="89" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-29">
-    <title>2026-09-29: 77 contributions</title>
+  <rect x="766" y="89" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-09-29">
+    <title>2026-09-29: 93 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.228s"/>
     <animate attributeName="y" from="83" to="89" begin="1.228s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.228s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="766" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-09-30">
-    <title>2026-09-30: 38 contributions</title>
+  <rect x="766" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-09-30">
+    <title>2026-09-30: 46 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.273s"/>
     <animate attributeName="y" from="99" to="105" begin="1.273s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.273s" dur="0.26s" fill="freeze"/>
@@ -2038,19 +2038,19 @@
     <animate attributeName="y" from="83" to="89" begin="1.252s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.252s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="782" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-07">
+  <rect x="782" y="105" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-10-07">
     <title>2026-10-07: 69 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.297s"/>
     <animate attributeName="y" from="99" to="105" begin="1.297s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.297s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="782" y="121" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-08">
+  <rect x="782" y="121" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-10-08">
     <title>2026-10-08: 94 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.342s"/>
     <animate attributeName="y" from="115" to="121" begin="1.342s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.342s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="782" y="137" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-09">
+  <rect x="782" y="137" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-10-09">
     <title>2026-10-09: 84 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.387s"/>
     <animate attributeName="y" from="131" to="137" begin="1.387s" dur="0.38s" fill="freeze"/>
@@ -2062,13 +2062,13 @@
     <animate attributeName="y" from="147" to="153" begin="1.432s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.432s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="798" y="57" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-11">
+  <rect x="798" y="57" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-10-11">
     <title>2026-10-11: 75 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.186s"/>
     <animate attributeName="y" from="51" to="57" begin="1.186s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.186s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="798" y="73" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-10-12">
+  <rect x="798" y="73" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-10-12">
     <title>2026-10-12: 111 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.231s"/>
     <animate attributeName="y" from="67" to="73" begin="1.231s" dur="0.38s" fill="freeze"/>
@@ -2080,13 +2080,13 @@
     <animate attributeName="y" from="83" to="89" begin="1.276s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.276s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="798" y="105" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-10-14">
+  <rect x="798" y="105" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-14">
     <title>2026-10-14: 49 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.321s"/>
     <animate attributeName="y" from="99" to="105" begin="1.321s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.321s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="798" y="121" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-15">
+  <rect x="798" y="121" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-10-15">
     <title>2026-10-15: 82 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.366s"/>
     <animate attributeName="y" from="115" to="121" begin="1.366s" dur="0.38s" fill="freeze"/>
@@ -2098,13 +2098,13 @@
     <animate attributeName="y" from="131" to="137" begin="1.411s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.411s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="798" y="153" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-10-17">
+  <rect x="798" y="153" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-17">
     <title>2026-10-17: 39 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.456s"/>
     <animate attributeName="y" from="147" to="153" begin="1.456s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.456s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="814" y="57" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-10-18">
+  <rect x="814" y="57" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-18">
     <title>2026-10-18: 41 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.210s"/>
     <animate attributeName="y" from="51" to="57" begin="1.210s" dur="0.38s" fill="freeze"/>
@@ -2152,7 +2152,7 @@
     <animate attributeName="y" from="51" to="57" begin="1.234s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.234s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="830" y="73" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-10-26">
+  <rect x="830" y="73" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-26">
     <title>2026-10-26: 39 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.279s"/>
     <animate attributeName="y" from="67" to="73" begin="1.279s" dur="0.38s" fill="freeze"/>
@@ -2182,7 +2182,7 @@
     <animate attributeName="y" from="131" to="137" begin="1.459s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.459s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="830" y="153" width="12" height="12" rx="2" fill="#006d32" opacity="1" data-date="2026-10-31">
+  <rect x="830" y="153" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-10-31">
     <title>2026-10-31: 91 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.504s"/>
     <animate attributeName="y" from="147" to="153" begin="1.504s" dur="0.38s" fill="freeze"/>
@@ -2194,7 +2194,7 @@
     <animate attributeName="y" from="51" to="57" begin="1.258s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.258s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="846" y="73" width="12" height="12" rx="2" fill="#26a641" opacity="1" data-date="2026-11-02">
+  <rect x="846" y="73" width="12" height="12" rx="2" fill="#39d353" opacity="1" data-date="2026-11-02">
     <title>2026-11-02: 126 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.303s"/>
     <animate attributeName="y" from="67" to="73" begin="1.303s" dur="0.38s" fill="freeze"/>
@@ -2212,14 +2212,14 @@
     <animate attributeName="y" from="99" to="105" begin="1.393s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.393s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="846" y="121" width="12" height="12" rx="2" fill="#161b22" opacity="1" data-date="2026-11-05">
-    <title>2026-11-05: 0 contributions</title>
+  <rect x="846" y="121" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-11-05">
+    <title>2026-11-05: 27 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.438s"/>
     <animate attributeName="y" from="115" to="121" begin="1.438s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.438s" dur="0.26s" fill="freeze"/>
   </rect>
-  <rect x="846" y="137" width="12" height="12" rx="2" fill="#161b22" opacity="1" data-date="">
-    <title>Outside displayed contribution period</title>
+  <rect x="846" y="137" width="12" height="12" rx="2" fill="#0e4429" opacity="1" data-date="2026-11-06">
+    <title>2026-11-06: 1 contributions</title>
     <set attributeName="opacity" to="0" begin="0s" end="1.483s"/>
     <animate attributeName="y" from="131" to="137" begin="1.483s" dur="0.38s" fill="freeze"/>
     <animate attributeName="opacity" from="0" to="1" begin="1.483s" dur="0.26s" fill="freeze"/>
@@ -2237,7 +2237,7 @@
   <rect x="96" y="177" width="12" height="12" rx="2" fill="#26a641"/>
   <rect x="112" y="177" width="12" height="12" rx="2" fill="#39d353"/>
   <text x="130" y="187" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">More</text>
-  <text x="14" y="211" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e" opacity="1">5,714 contributions · 0-day streak · longest 129 days
+  <text x="14" y="211" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e" opacity="1">6,742 contributions · 131-day streak · longest 131 days
     <set attributeName="opacity" to="0" begin="0s" end="2.00s"/>
     <animate attributeName="opacity" from="0" to="1" begin="2.00s" dur="0.25s" fill="freeze"/>
   </text>
